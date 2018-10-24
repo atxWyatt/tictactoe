@@ -1,3 +1,5 @@
+# Credits to Amanda Brooks, both for contributing about half this program, and for saving the code for years which saved the project because I am  a lazy POS and didn't save my own copy. 10/10 person.
+
 .data 
 skeleton:	.asciiz	" 1 # 2 # 3 \n###########\n 4 # 5 # 6 \n###########\n 7 # 8 # 9 \n"
 promptX:	.asciiz " Player 1 move: "
